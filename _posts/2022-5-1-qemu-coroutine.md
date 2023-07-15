@@ -5,6 +5,7 @@ date:   2022-5-1
 tags: [qemu]
 comments: true
 author: Reynold
+notice: 如需转载请通过github联系本人，否则禁止转载
 ---
 
 # 非局部转移
